@@ -27,6 +27,7 @@ on:
           - s905x-tx9
           - s905x2
           - s905x3
+          - s905x4
           - s912
           - nanopi-r5c
           - nanopi-r5s
@@ -42,6 +43,7 @@ on:
           - 5.15.y
           - 6.1.y
           - 6.6.y
+          - 5.4.279
           
 jobs:
   download:
@@ -124,6 +126,7 @@ jobs:
           - s905x-tx9
           - s905x2
           - s905x3
+          - s905x4
           - s912
           - nanopi-r5c
           - nanopi-r5s
